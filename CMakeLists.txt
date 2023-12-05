@@ -3,4 +3,4 @@ project(KNN_for_ardruino)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_library(untitled library.cpp)
+add_library(untitled knn.cpp)
